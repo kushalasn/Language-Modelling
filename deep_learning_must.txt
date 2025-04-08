@@ -1,0 +1,75 @@
+Month 4: Deep Learning & Neural Networks
+Focus: Dive into deep learning and neural networks, the core of many AI applications.
+Topics:
+
+
+Neural Networks Basics:
+Introduction to neural networks: neurons, weights, biases, layers --done
+Forward propagation, backward propagation, and gradient descent --done
+Loss functions: Mean Squared Error (MSE), Cross-Entropy --done
+
+
+Deep Learning Frameworks:
+Get familiar with TensorFlow and Keras
+Building simple neural networks from scratch and using these frameworks
+Regularization Techniques:
+Prevent overfitting using dropout, L2 regularization, and batch normalization--done
+Activation Functions:
+Sigmoid, ReLU, SoftMax --done
+
+
+Resources:
+"Deep Learning with Python" by François Chollet (focuses on Keras and TensorFlow)
+Andrew Ng’s "Deep Learning Specialization" on Coursera (specifically Neural Networks and Deep Learning)
+Projects:
+Build a neural network for classification on the MNIST dataset (handwritten digits).
+Train a neural network for binary classification on a simple dataset (e.g., medical diagnosis).
+
+
+Month 5: Advanced Deep Learning & Natural Language Processing (NLP)
+Focus: Explore advanced topics in deep learning and NLP, enabling you to work with complex models and real-world language data.
+Topics:
+Convolutional Neural Networks (CNNs):
+Architecture of CNNs: convolutional layers, pooling, filters
+CNNs for image processing tasks (object detection, image classification)
+Recurrent Neural Networks (RNNs):
+Understanding sequences and time-series data with RNNs
+Long Short-Term Memory (LSTM) networks for handling long sequences
+Natural Language Processing:
+Basics of NLP: tokenization, stemming, lemmatization
+Word embeddings: Word2Vec, GloVe
+Sentiment analysis, text classification, named entity recognition (NER)
+Transfer Learning in NLP:
+Fine-tuning pre-trained models like BERT for text analysis tasks
+Resources:
+"Deep Learning with Python" (CNNs and NLP)
+Hugging Face Tutorials for BERT and Transformers
+Stanford’s CS224N course on NLP
+Projects:
+Build a CNN model to classify images (e.g., CIFAR-10 or fashion MNIST dataset).
+Train an LSTM model for text generation or sentiment analysis using datasets like IMDB reviews.
+Fine-tune a BERT model for text classification or question-answering tasks.
+
+
+Month 6: AI Applications & Specialization
+Focus: Apply your skills to real-world problems and dive deeper into a specialized AI domain.
+Topics:
+Reinforcement Learning Basics:
+Understanding agents, environments, actions, rewards, and policy learning
+Key algorithms: Q-learning, Deep Q-Network (DQN)
+AI in Industry:
+AI applications in healthcare, finance, autonomous vehicles, and robotics
+Explore specific use cases: fraud detection, AI in medical diagnostics, self-driving cars
+Model Deployment:
+Learn how to deploy AI models using Flask or FastAPI
+Containerization with Docker and deploying to cloud platforms (AWS, GCP, Heroku)
+Specialization Area:
+Choose one area of specialization (e.g., Computer Vision, NLP, Recommendation Systems, Reinforcement Learning)
+Resources:
+"Reinforcement Learning: An Introduction" by Sutton and Barto
+Fast.ai’s "Practical Deep Learning for Coders" (great for real-world applications)
+Tutorials on Flask/Docker for deployment
+Projects:
+Implement a Reinforcement Learning agent in a simple environment (e.g., OpenAI Gym).
+Deploy one of your previous models to a cloud service (e.g., deploy a CNN for image classification as a web service).
+Choose a capstone project in your specialization area (e.g., an autonomous driving simulation, recommendation system for e-commerce, or a chatbot for customer service).
